@@ -14,9 +14,3 @@ css,
 
 
 
-Problems: 
-Too lazy to change rn --> I've created the wrong dependence on schemas, it should be other way as i recall. 
-What it does, is, Doctor(Admin), can't check the pacient's 'profile', if that pacient have no 'active' reserved dates.
-Other ways, it works fine .. keeps the User logged and stuff. 
-Core calendar script is borrowed. I've added other functionalities to it and worked with it.
-Not really happy about how app is looking.
